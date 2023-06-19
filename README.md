@@ -10,6 +10,8 @@ Welcome to experience GmasterAI, an exquisite AI drawing application. New users 
 
 ![](https://cdn.gmaster.ai/public/index-images/10003.jpg)
 
+<a title="GmasterAI, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Gmaster.ai.jpg"><img width="512" alt="Gmaster.ai" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gmaster.ai.jpg/512px-Gmaster.ai.jpg"></a>
+
 ## Product Features:
 
 - Unique art style
