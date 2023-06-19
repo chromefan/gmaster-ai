@@ -6,7 +6,7 @@ AI intelligent drawing creation and design, specializing in image material desig
 
 Welcome to experience GmasterAI, an exquisite AI drawing application. New users will receive 10 free trial opportunities upon registration.Website: [https://www.gmaster.ai](https://www.gmaster.ai/)
 
-![](https://cdn.gmaster.ai/public/index-images/10001.jpg)
+![](https://commons.wikimedia.org/wiki/File:Gmaster.ai.jpg)
 
 ![](https://cdn.gmaster.ai/public/index-images/10003.jpg)
 
